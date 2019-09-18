@@ -1,0 +1,19 @@
+label {
+	color: black;
+	display: block;
+}
+input {
+	width: 300px;
+	display: block; 
+	border-radius: 5px;
+
+}
+
+fieldset  {
+	display: inline-block;
+}
+
+.red-textarea:focus {
+	background: yellow;
+	color: red;
+}
